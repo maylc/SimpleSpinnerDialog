@@ -70,9 +70,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void populateUserArrayList()
     {
-        User user1 = new User(2, "Bob", "bob@mail.com");
-        User user2 = new User(7, "Ami", "ami@mail.com");
-        User user3 = new User(1, "John", "john@mail.com");
+        User user1 = new User(2, "Jon Snow", "jon@mail.com");
+        User user2 = new User(7, "Daenerys", "dani@mail.com");
+        User user3 = new User(1, "Cersei", "cersei@mail.com");
 
         users.add(user1);
         users.add(user2);
